@@ -1,6 +1,6 @@
 {
-  "name": "minimal-prompt",
-  "version": "1.0.5",
+  "name": "tiny-prompt",
+  "version": "1.0.0",
   "description": "A minimal command line prompting library",
   "main": "prompt.js",
   "keywords": [
@@ -27,12 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vicjohnson1213/minimal-prompt.git"
+    "url": "https://github.com/motyshot/tiny-prompt.git"
   },
-  "author": "Victor Johnson <vicjohnson1213@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/vicjohnson1213/minimal-prompt/issues"
-  },
-  "homepage": "https://github.com/vicjohnson1213/minimal-prompt#readme"
+  "homepage": "https://github.com/motyshot/tiny-prompt.git"
 }
